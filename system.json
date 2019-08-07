@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "staging.clearblade.com:1883",
+    "name": "PerformanceMeasurement",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "8e8ce5cc0beeebe984d6e7e58cbf01",
+    "system_secret": ""
+}
